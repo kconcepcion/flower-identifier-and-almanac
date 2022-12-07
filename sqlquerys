@@ -1,0 +1,5 @@
+Alter table metadata
+drop column scientific_name,
+drop column herbarium22_category_id,
+drop column species_level,
+drop column class_id;
