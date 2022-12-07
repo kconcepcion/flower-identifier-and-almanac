@@ -46,6 +46,10 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 <li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook </li>
 <li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook </li>
 <li>https://www.kaggle.com/datasets/hanselliott/toxic-plant-classification/code</li>
+<li>https://machinelearningmastery.com/train-to-the-test-set-in-machine-learning/</li>
+<li>https://plants.usda.gov/home</li>
+<li>https://plantdatabase.uconn.edu/</li>
+
 </p>
 
 
