@@ -40,6 +40,35 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 <p>
 
+
+## Table of Contents
+
+- [Extract](#extract)
+- [Transform](#transform)
+- [Load](#load)
+- [Credits](#credits)
+- [Results](#results)
+
+
+## Extract
+We selected the Kaggle datasets because it provided a vast array of different csv files we could combine and cross reference. 
+## Transform
+
+At the very beginning of this process we ran into a problem of the csv files not being pulled in their entirety. The problem arose form an improper pull location and had to be set to the host computer in order to load.
+
+## Load
+
+Once the data was loaded and cleaned, we first thad to train them with x-trains and x-tests. After this we then ran the data through a machine learning algorithm and ran it through “Transfer Learning”. With transfer learning, the code was able to use the previous epoch results so it will not have to use the entire code to make inferences, thus saving memory and time since each batch of epochs take 30 to 45 minutes to run.
+ 
+## Results
+
+Here we have another training set, it is the same tests as the previous but here it ran 10 epochs to raise all the accuracies. We can see the validation tests stay pretty stagnant with little pulse changes but staying relatively stable. But with this one,you can see the best epoch is the 8th and 10th epoch. It is easy to say that if this program were to go any longer there would hardly be a change in the numbers as it reaches perfection. 
+
+
+
+
+
+
 <ul>Datasets to be used</ul>
 
 <li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data </li>
